@@ -7,3 +7,6 @@
     <bold>This page has been visited </bold><img src="https://profile-counter.glitch.me/arielherself/count.svg"><bold> times.</bold>
   </td>
 </table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
